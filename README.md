@@ -26,7 +26,3 @@ LakuBanyak is an online fashion store that sells clothing, shoes, bags, and acce
 
 - Increase marketing efforts and product variety for the Shoes category due to its strong revenue performance.
 - Maintain sufficient stock of Kaos Polos Hitam and highlight it in promotional campaigns to attract more customers.
-
-## Tools Used
-
-- SQL (MySQL)
